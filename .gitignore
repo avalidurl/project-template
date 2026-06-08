@@ -1,0 +1,28 @@
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# Env / secrets — never commit wallet keys, API tokens, x402 creds
+.env
+.env.*
+*.local
+secrets/
+*.key
+*.pem
+
+# Node / build (when code lands)
+node_modules/
+dist/
+build/
+.cache/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local sync scratch
+.sync-tmp/
