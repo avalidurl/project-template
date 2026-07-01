@@ -119,6 +119,9 @@ The convention of a numbered, agent-readable "bible" as the single source of tru
 
 ## License
 
+This project is licensed under the **MIT License** — remix freely with attribution. See [LICENSE](./LICENSE).
+
+
 **TBD.** No license file is currently included — usage terms are at the discretion of the repository owner. A project created from this template should add its own `LICENSE`.
 
 ---
